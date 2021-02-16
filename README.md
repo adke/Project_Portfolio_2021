@@ -29,3 +29,21 @@
 #### BUT, don't get too excited yet as you may not know how to use the program because you may have no clue what the assignment(s) or the project(s) are about.:weary::cry::rage: 
 
 #### Sorry for getting your hopes up but unfortunately, you are going to have to read the next section and the section after that which describes all the assignments and projects in this portfolio if you have no idea how to utilize the program. And yes, that means more reading!:disappointed_relieved::tired_face:
+
+## Assignment Descriptions 
+#### The moment you have been waiting for has finally arrived. In this section, a description for each of the assignments will be mentioned in regards to what the assignment is and how each of the program works. The assignments I will be going over are Combination Lock, Game of Life, and Make Change as those are the materials that are uploaded onto this portfolio. And so, let's get started! :) 
+
+### Combination Lock
+#### For this ComboLock assignment, I have created a digital combination lock that can be opened with the correct seqeunce of operations and numbers. Usually, the pattern to opening a lock would be right - left - right. Meaning, you first turn the lock clockwise to the first number, and then you turn the lock counter-clockwise to the second number, and finally, you turn the lock clockwise again to the third number as your password would be composed of a series of 3 numbers in order to open the lock. This is excatly how I programmed the digital lock in order to open it. It follows the same pattern as right - left - right.
+
+#### To actually run the program, you need to run the file that says "ComboLockRun.java". The other files are for building this digital lock and are not neccessary to look at unless you want to obviously. Once you run the "ComboLockRun.java" file, the program should have a main function that will ask the user what they would like to do, giving them four options which are as follows: 
+#### 1. Turn the lock to the left to a number
+#### 2. Turn the lock to the right to a number
+#### 3. Open the lock 
+#### 4. Retrieve the combination
+
+#### Now because this is a digital lock, the user needs to first retrieve the combination to know what their combo is. So, you can simply press "4" on your keyboard to recieve your combination. That Combo will remain the same until you have opened the lock. Now you need to follow the pattern I described above to actually open the lock. You need to click on numbers "1" and "2" to turn the lock left and right towards the approprate number of your combo. Once you chose which way the lock has turned, the program will tell you to either "Enter what position to turn left to:" or "Enter what position to turn right to:" so that's when you enter the combo number you are turning towards in order to open the lock. Remember, the pattern is right - left - right and you only need to make 1 turn each. Once you think you have dialed in the numbers with the correct sequence, you can simply press the number "3" on your keyboard to open the lock. If your lock opens, it will the terminal will print out a message saying "The lock was opened" if not, the program will print out "The lock remains locked" and unfortunately you are going to have to try again. Sorry! :( 
+
+#### Keep in mind, if you forget your combination while you are turning your lock, you can press "4" again to retrieve the combo and hopefully, work your way to successfully open the lock. 
+
+### Game of Life
