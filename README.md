@@ -58,6 +58,9 @@
 
 #### This section will provide a description for each of the projects in regards to what the project is about and how each of the program works. The projects I will be going over is a Bank Account GUI program, a Connect 4 Game, and a Triangle Classifier GUI program as provided below. 
 
+### BankAccount Graphical User Interface 
+#### This application represents a functional GUI that models a bank machine. It allows the user to interact (i.e. make withdrawals or deposits) on multiple bank accounts including a chequing and savings account showing the balance on each of these accounts depending on what type of transaction the user makes. This online banking also shows a list of all the transactions with proper dates and descriptions that was made by the user and the transaction will be sorted from oldest to newest depending on what date range the user inputs. 
 
+### Connect 4 Game 
 
 
