@@ -52,4 +52,12 @@
 ### Make Change 
 #### Finally, the last assignment is based on recieveing change from the cashier when you want coins to buy food from the vending machine (not really but it uses similar concepts!). Anyways, all you have to do to successfully run this program is to run the "MakeChange.java" file and the program will ask you to "Please Enter a Dollar Amount:". So then, enter any amount in $0.00 format and the program will automatically convert your given amount to the appropriate number of toonies; loonies; quarters; dimes; and nickels which is basically your change. Wish you the best of luck in buying as many snacks as you can from the vending machine!  
 
-#### Welp, that is it for describing all the assignments. Please tune in below to read over the descriptions I have for each of my projects. Trust me, you are almost done reading!!  
+#### Welp, that is it for describing all the assignments. Please tune in below to read over the descriptions I have for each of my projects. Trust me, you are almost done reading!!
+
+## Project Descriptions
+
+#### This section will provide a description for each of the projects in regards to what the project is about and how each of the program works. The projects I will be going over is a Bank Account GUI program, a Connect 4 Game, and a Triangle Classifier GUI program as provided below. 
+
+
+
+
