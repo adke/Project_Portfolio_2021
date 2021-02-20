@@ -62,5 +62,14 @@
 #### This application represents a functional GUI that models a bank machine. It allows the user to interact (i.e. make withdrawals or deposits) on multiple bank accounts including a chequing and savings account showing the balance on each of these accounts depending on what type of transaction the user makes. This online banking also shows a list of all the transactions with proper dates and descriptions that was made by the user and the transaction will be sorted from oldest to newest depending on what date range the user inputs. 
 
 ### Connect 4 Game 
+#### This was a final project that me and my friend did for our computer science course in the first semester. What we implemented was our version of the Connect 4 game where I am the AI bot that the user gets to play against. The name "Adish" is  given as a reference to the bot in the game.
+
+#### To play, add the Connect4.jar to your build path (this loads the JFrame and Graphics). How to do this will vary depending on the IDE. But for Eclipse, on your project folder, go to 'Properties' then 'Add JARs'. Select the "Connect4.jar" to add the file to your project. Afterwards, run the Connect 4 game via the "Connect4.java" file and finally, follow the instructions by the bot, Adish, to start the game.     
+
+#### The user will input their name and will choose the difficulty of the AI bot depending on their skill level from 1 to 5. After the user enters their name and difficulty, the program will initiate by showing a picture of Adish saying “Bring it on bud”. Then the gameboard will pop up allowing the user to click on a series of buttons at the bottom of the screen to choose where they want to place their game pieces, allowing the game to initiate. After the user has chosen where they want to place their game piece, the AI bot will process a bunch of algorithms like “for loops” and “if-else statements” to make his turn as well based on the difficulty that the user has selected. Once the game is finished, when someone has connected 4 game pieces together either horizontally, vertically, or diagonally, the system will show a pop-up message stating that the winner has won the game. If the real player won the game, a picture of the AI bot (Adish) will pop up saying “Sorry I am bad at Connect4” otherwise if the AI bot won, then it will say “Get Rekt Loser”.
+
+#### **Please note that the "Connect4.jar" file is given credit to Delos Chang for this project.**
+
+
 
 
