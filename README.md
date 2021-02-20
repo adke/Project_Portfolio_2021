@@ -70,6 +70,17 @@
 
 #### **Please note that the "Connect4.jar" file is given credit to Delos Chang for this project.**
 
+### Triangle Classifier
+#### And here we are, at the last description from the materials uploaded onto this portfolio!:relieved: This program is very simply and easy to use. All the user has to do is enter 3 angles for the program to classify what type of triangle is made from those angles. If the 3 angles sum up to a value that is not 180, the system will say "INVALID" because all the angles for a triangle must add up to 180. If the user enters 0 for one of the angles, then the program will also say "INVALID" because a triangle must have 3 angles as well. 
+
+## Conclusion
+
+#### Congratulations on making it this far! 
+
+#### It is time to finally wrap up the reading and start exploring the portfolio! If you have any question(s) or concern(s), you can contact me using my email which is adish.shah2003@gmail.com. And once again, thank you very much for giving up some of your time to see my GitHub! It really means a lot to me. :) 
+
+ 
+
 
 
 
