@@ -47,6 +47,40 @@
 #### Keep in mind, if you forget your combination while you are turning your lock, you can press "4" again to retrieve the combo and hopefully, work your way to successfully open the lock. Good Luck!
 
 ### Game of Life
-#### This program implements a simple version of the Game of Life (not the board game, but John Conway's Game of Life). For this assignment, you don't really need to use the program itself. Simply go to the "GameOfLifeTest.java" and run the test. You can see that the code will implement the rules that make up John Conway's Game of Life project. The different generations will also be shown with the corresponding pieces in the terminal as the test successfully passes. The stars represent the cells that are alive while the dot means that the cells are dead and this will be different for each generation. That is pretty much it for this one. Hope you enjoy the program! 
+#### This program implements a simple version of the Game of Life (not the board game, but John Conway's Game of Life). For this assignment, you don't really need to use the program itself. Simply go to the "GameOfLifeTest.java" and run the test. You can see that the code will implement the rules that make up John Conway's Game of Life project. The different generations will also be shown with the corresponding pieces in the terminal as the test successfully passes. The stars represent the cells that are alive while the dot means that the cells are dead and this will be different for each generation. That is pretty much it for this one. If you don't know how the Game of Life works, you can simply go to the "Images" folder in this repository and click on "Game of Life" to see some pictures that give an example and describe what the Game of Life program looks like. Hope you enjoy this assignment!
 
 ### Make Change 
+#### Finally, the last assignment is based on recieveing change from the cashier when you want coins to buy food from the vending machine (not really but it uses similar concepts!). Anyways, all you have to do to successfully run this program is to run the "MakeChange.java" file and the program will ask you to "Please Enter a Dollar Amount:". So then, enter any amount in $0.00 format and the program will automatically convert your given amount to the appropriate number of toonies; loonies; quarters; dimes; and nickels which is basically your change. Wish you the best of luck in buying as many snacks as you can from the vending machine!  
+
+#### Welp, that is it for describing all the assignments. Please tune in below to read over the descriptions I have for each of my projects. Trust me, you are almost done reading!!
+
+## Project Descriptions
+
+#### This section will provide a description for each of the projects in regards to what the project is about and how each of the program works. The projects I will be going over is a Bank Account GUI program, a Connect 4 Game, and a Triangle Classifier GUI program as provided below. 
+
+### BankAccount Graphical User Interface 
+#### This application represents a functional GUI that models a bank machine. It allows the user to interact (i.e. make withdrawals or deposits) on multiple bank accounts including a chequing and savings account showing the balance on each of these accounts depending on what type of transaction the user makes. This online banking also shows a list of all the transactions with proper dates and descriptions that was made by the user and the transaction will be sorted from oldest to newest depending on what date range the user inputs. 
+
+### Connect 4 Game 
+#### This was a final project that me and my friend did for our computer science course in the first semester. What we implemented was our version of the Connect 4 game where I am the AI bot that the user gets to play against. The name "Adish" is  given as a reference to the bot in the game.
+
+#### To play, add the Connect4.jar to your build path (this loads the JFrame and Graphics). How to do this will vary depending on the IDE. But for Eclipse, on your project folder, go to 'Properties' then 'Add JARs'. Select the "Connect4.jar" to add the file to your project. Afterwards, run the Connect 4 game via the "Connect4.java" file and finally, follow the instructions by the bot, Adish, to start the game.     
+
+#### The user will input their name and will choose the difficulty of the AI bot depending on their skill level from 1 to 5. After the user enters their name and difficulty, the program will initiate by showing a picture of Adish saying “Bring it on bud”. Then the gameboard will pop up allowing the user to click on a series of buttons at the bottom of the screen to choose where they want to place their game pieces, allowing the game to initiate. After the user has chosen where they want to place their game piece, the AI bot will process a bunch of algorithms like “for loops” and “if-else statements” to make his turn as well based on the difficulty that the user has selected. Once the game is finished, when someone has connected 4 game pieces together either horizontally, vertically, or diagonally, the system will show a pop-up message stating that the winner has won the game. If the real player won the game, a picture of the AI bot (Adish) will pop up saying “Sorry I am bad at Connect4” otherwise if the AI bot won, then it will say “Get Rekt Loser”.
+
+#### **Please note that the "Connect4.jar" file is given credit to Delos Chang for this project.**
+
+### Triangle Classifier
+#### And here we are, at the last description from the materials uploaded onto this portfolio!:relieved: This program is very simply and easy to use. All the user has to do is enter 3 angles for the program to classify what type of triangle is made from those angles. If the 3 angles sum up to a value that is not 180, the system will say "INVALID" because all the angles for a triangle must add up to 180. If the user enters 0 for one of the angles, then the program will also say "INVALID" because a triangle must have 3 angles as well. 
+
+## Conclusion
+
+#### Congratulations on making it this far! 
+
+#### It is time to finally wrap up the reading and start exploring the portfolio! If you have any question(s) or concern(s), you can contact me using my email which is adish.shah2003@gmail.com. And once again, thank you very much for giving up some of your time to see my GitHub! It really means a lot to me. :) 
+
+ 
+
+
+
+
