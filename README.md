@@ -10,7 +10,7 @@
 
 #### For the most part, I made all the materials within this portfolio easy to access but let's do a quick walkthrough on how you can access the files. If you are reading this text, then you should be on the repository's main page. Simply, click on the "Coding" folder under the "main" branch and then you will see two more folders that says "Assignments" and "Projects". Click on one of them and you will then be directed to the folder that contains each of the assignments or each of the projects depending on which folder you chose. There are 3 assignments and 3 projects to choose from which are the following: 
 
-### Assignments &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Projects                   
+### Assignments &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Projects                   
 #### 1. Combination Lock &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. Bank Account Graphical User Interface           
 #### 2. Game of Life &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   2. Connect 4 Game
 #### 3. Make Change &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  3. Triangle Classifier Graphical User Interface
@@ -52,7 +52,9 @@
 ### Make Change 
 #### Finally, the last assignment is based on recieveing change from the cashier when you want coins to buy food from the vending machine (not really but it uses similar concepts!). Anyways, all you have to do to successfully run this program is to run the "MakeChange.java" file and the program will ask you to "Please Enter a Dollar Amount:". So then, enter any amount in $0.00 format and the program will automatically convert your given amount to the appropriate number of toonies; loonies; quarters; dimes; and nickels which is basically your change. Wish you the best of luck in buying as many snacks as you can from the vending machine!  
 
-#### Welp, that is it for describing all the assignments. Please tune in below to read over the descriptions I have for each of my projects. Trust me, you are almost done reading!!
+#### Welp, that is it for describing all the assignments. I have added demonstration videos that shows what each of the programs should look like onto this portfolio. Although, you may not be able to watch these videos on GitHub itself, you need to download them on your computer and watch them as the file size is big. 
+
+#### Please tune in below to read over the descriptions I have for each of my projects. Trust me, you are almost done reading!!
 
 ## Project Descriptions
 
