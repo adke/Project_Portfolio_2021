@@ -16,6 +16,7 @@
 #### 3. Make Change &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  3. Triangle Classifier Graphical User Interface
 
 #### From here, if you are still reading this (sorry for making this long btw:sleeping::sleepy:, I will try to speed up I promise!!:sweat_smile:) and know how to run the program(s) on you IDE, then you can simply skip to the "Assignment Description" section that explains how each assignment works. If not, then I will explain to the best of my abilities on how you can run the program(s) on your computer in the next section which is right below this line. 
+  
 
 ## How to Run the Program(s) on Your Computer
 #### Alright so first, you need to download an IDE on your computer that supports Java Files. Some common IDE's for Java are IntelliJ IDEA, Visual Studio Code, Eclipse and NetBeans. Once you have downloaded the appropriate IDE, you need to add the Java Extension so that your IDE can support Java formatted files (this is not required if you downloaded IntelliJ). You then need to create a "New Project" in your IDE first before copying the files from this portfolio onto your computer for the corresponding assignment or project. Make sure to name the project the same as what the assignment is called, otherwise, you may not be able to run the program. One of the assignments and projects has a number after its name for its folder within this portfolio, you can simply ignore that and just call your project by the name without having that number at the end. 
@@ -52,7 +53,7 @@
 ### Make Change 
 #### Finally, the last assignment is based on recieveing change from the cashier when you want coins to buy food from the vending machine (not really but it uses similar concepts!). Anyways, all you have to do to successfully run this program is to run the "MakeChange.java" file and the program will ask you to "Please Enter a Dollar Amount:". So then, enter any amount in $0.00 format and the program will automatically convert your given amount to the appropriate number of toonies; loonies; quarters; dimes; and nickels which is basically your change. Wish you the best of luck in buying as many snacks as you can from the vending machine!  
 
-#### Welp, that is it for describing all the assignments. I have added demonstration videos that shows what each of the programs should look like onto this portfolio. Although, you may not be able to watch these videos on GitHub itself, you need to download them on your computer and watch them as the file sizes are big.  
+#### Welp, that is it for describing all the assignments. I have added demonstration videos that shows what each of the programs should look like onto this portfolio. Although, you may not be able to watch these videos on GitHub itself, you need to download them on your computer and watch them as the file sizes are big. You can also check out these videos on a google drive link that I have pasted into the file called "Video Demo Link" within this repository if you don't want to download the videos.    
 
 #### Please tune in below to read over the descriptions I have for each of my projects. Trust me, you are almost done reading!!
 
@@ -74,6 +75,8 @@
 
 ### Triangle Classifier
 #### And here we are, at the last description from the materials uploaded onto this portfolio!:relieved: This program is very simply and easy to use. All the user has to do is enter 3 angles for the program to classify what type of triangle is made from those angles. If the 3 angles sum up to a value that is not 180 degrees, the system will say "INVALID" because all the angles for a triangle must add up to 180 degrees. If the user enters 0 for one of the angles, then the program will also say "INVALID" because a triangle must have 3 angles as well. 
+
+#### I have also added demonstration videos for the projects that shows what each of the programs should look like onto this portfolio. You can choose to either download the videos from GitHub in the "Videos" folder or you can check out a google drive link inside the "Video Demo Link" file that has the videos uploaded which doesn't require you to download the videos on your local computer.  
 
 ## Conclusion
 
