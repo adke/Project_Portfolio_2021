@@ -18,7 +18,7 @@
 #### From here, if you are still reading this (sorry for making this long btw:sleeping::sleepy:, I will try to speed up I promise!!:sweat_smile:) and know how to run the program(s) on you IDE, then you can simply skip to the "Assignment Description" section that explains how each assignment works. If not, then I will explain to the best of my abilities on how you can run the program(s) on your computer in the next section which is right below this line. 
 
 ## How to Run the Program(s) on Your Computer
-#### Alright so first, you need to download an IDE on your computer that supports Java Files. Some common IDE's for Java are IntelliJ IDEA, Visual Studio Code, and NetBeans. Once you have downloaded the appropriate IDE, you need to add the Java Extension so that your IDE can support Java formatted files (this is not required if you downloaded IntelliJ). You then need to create a "New Project" in your IDE first before copying the files from this portfolio onto your computer for the corresponding assignment or project. Make sure to name the project the same as what the assignment is called, otherwise, you may not be able to run the program. One of the assignments and projects has a number after its name for its folder within this portfolio, you can simply ignore that and just call your project by the name without having that number at the end. 
+#### Alright so first, you need to download an IDE on your computer that supports Java Files. Some common IDE's for Java are IntelliJ IDEA, Visual Studio Code, Eclipse and NetBeans. Once you have downloaded the appropriate IDE, you need to add the Java Extension so that your IDE can support Java formatted files (this is not required if you downloaded IntelliJ). You then need to create a "New Project" in your IDE first before copying the files from this portfolio onto your computer for the corresponding assignment or project. Make sure to name the project the same as what the assignment is called, otherwise, you may not be able to run the program. One of the assignments and projects has a number after its name for its folder within this portfolio, you can simply ignore that and just call your project by the name without having that number at the end. 
 
 #### Once this step has been completed, you then need to copy all the files from the "src" folder of each assignment or project from this portfolio to the "src" folder for the new project that you created locally on your computer in your IDE. That "src" folder for the new project you created should be inside the directory you chose on your computer as you were making the project. ***Do not copy any other files from the assignment(s) or project(s) folder in this portfolio other than the files inside the "src" folder.*** The other files were created when building the project on its corresponding IDE. Therefore, you already have those files when you created the project and those files will be different based on which IDE you are using as a different working environment will be produced. 
 
@@ -52,7 +52,7 @@
 ### Make Change 
 #### Finally, the last assignment is based on recieveing change from the cashier when you want coins to buy food from the vending machine (not really but it uses similar concepts!). Anyways, all you have to do to successfully run this program is to run the "MakeChange.java" file and the program will ask you to "Please Enter a Dollar Amount:". So then, enter any amount in $0.00 format and the program will automatically convert your given amount to the appropriate number of toonies; loonies; quarters; dimes; and nickels which is basically your change. Wish you the best of luck in buying as many snacks as you can from the vending machine!  
 
-#### Welp, that is it for describing all the assignments. I have added demonstration videos that shows what each of the programs should look like onto this portfolio. Although, you may not be able to watch these videos on GitHub itself, you need to download them on your computer and watch them as the file size is big. 
+#### Welp, that is it for describing all the assignments. I have added demonstration videos that shows what each of the programs should look like onto this portfolio. Although, you may not be able to watch these videos on GitHub itself, you need to download them on your computer and watch them as the file sizes are big.  
 
 #### Please tune in below to read over the descriptions I have for each of my projects. Trust me, you are almost done reading!!
 
@@ -64,7 +64,7 @@
 #### This application represents a functional GUI that models a bank machine. It allows the user to interact (i.e. make withdrawals or deposits) on multiple bank accounts including a chequing and savings account showing the balance on each of these accounts depending on what type of transaction the user makes. This online banking also shows a list of all the transactions with proper dates and descriptions that was made by the user and the transaction will be sorted from oldest to newest depending on what date range the user inputs. 
 
 ### Connect 4 Game 
-#### This was a final project that me and my friend did for our computer science course in the first semester. What we implemented was our version of the Connect 4 game where I am the AI bot that the user gets to play against. The name "Adish" is  given as a reference to the bot in the game.
+#### This was a final project that me and my friend did for our computer science course in the first semester. What we implemented was our version of the Connect 4 game where I am the AI bot that the user gets to play against. The name "Adish" (my name) is  given as a reference to the bot in the game.
 
 #### To play, add the Connect4.jar to your build path (this loads the JFrame and Graphics). How to do this will vary depending on the IDE. But for Eclipse, on your project folder, go to 'Properties' then 'Add JARs'. Select the "Connect4.jar" to add the file to your project. Afterwards, run the Connect 4 game via the "Connect4.java" file and finally, follow the instructions by the bot, Adish, to start the game.     
 
@@ -73,11 +73,11 @@
 #### **Please note that the "Connect4.jar" file is given credit to Delos Chang for this project.**
 
 ### Triangle Classifier
-#### And here we are, at the last description from the materials uploaded onto this portfolio!:relieved: This program is very simply and easy to use. All the user has to do is enter 3 angles for the program to classify what type of triangle is made from those angles. If the 3 angles sum up to a value that is not 180, the system will say "INVALID" because all the angles for a triangle must add up to 180. If the user enters 0 for one of the angles, then the program will also say "INVALID" because a triangle must have 3 angles as well. 
+#### And here we are, at the last description from the materials uploaded onto this portfolio!:relieved: This program is very simply and easy to use. All the user has to do is enter 3 angles for the program to classify what type of triangle is made from those angles. If the 3 angles sum up to a value that is not 180 degrees, the system will say "INVALID" because all the angles for a triangle must add up to 180 degrees. If the user enters 0 for one of the angles, then the program will also say "INVALID" because a triangle must have 3 angles as well. 
 
 ## Conclusion
 
-#### Congratulations on making it this far! 
+#### Congratulations on making it this far!:stuck_out_tongue_winking_eye::smiley: 
 
 #### It is time to finally wrap up the reading and start exploring the portfolio! If you have any question(s) or concern(s), you can contact me using my email which is adish.shah2003@gmail.com. And once again, thank you very much for giving up some of your time to see my GitHub! It really means a lot to me. :) 
 
