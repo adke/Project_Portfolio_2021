@@ -1,4 +1,4 @@
-# WaterlooPortfolio2021
+# Personal Portfolio
 ## Introduction
 ### Hello, Welcome to Adish's Coding Portfolio! 
 #### I greatly appreciate the time and effort you are putting in to see my work. It took me a long time in organzing this masterpiece and so, I really do hope you enjoy and get a feel of some of my talents and skills in programming. Without further ado, let's get started with going over what this portfolio looks like.:sunglasses:
